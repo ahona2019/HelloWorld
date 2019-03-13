@@ -1,0 +1,35 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AE0B-0C68
+
+ Directory of C:\Users\AHONA\Desktop
+
+03/13/2019  12:33 PM    <DIR>          .
+03/13/2019  12:33 PM    <DIR>          ..
+09/30/2018  08:30 AM         8,000,302 (Certification Press) Kathy Sierra, Bert Bates-OCA_OCP Java SE 7 Programmer I & II Study Guide (Exams 1Z0-803 & 1Z0-804)-McGraw-Hill Osborne Media (2014).pdf
+02/16/2018  07:12 PM        22,497,694 A Gentleman (2017) Full Album 190Kbps Zip 22MB.zip
+01/15/2019  11:14 PM            31,814 ahona_latestcv.docx
+02/25/2019  09:11 AM            31,738 cv new1.docx
+12/17/2017  09:16 PM    <DIR>          Desktop data  Dec 2017
+05/18/2016  12:37 PM               596 eclipse - Shortcut.lnk
+05/09/2016  09:11 PM         6,680,194 eventexpress.zip
+05/09/2016  08:59 PM        14,900,091 eventexpress_struts.zip
+02/16/2018  06:39 PM                 0 FloRida - Whistle.mp3
+11/08/2015  10:21 PM             1,041 Free Alarm Clock.lnk
+03/13/2019  12:33 PM               431 Hello.class
+03/13/2019  10:09 AM               149 Hello.java
+10/08/2013  06:13 PM               997 KMPlayer.lnk
+10/06/2015  05:24 PM           985,603 mysql-connector-java-5.1.37-bin.jar
+02/27/2019  11:56 PM    <DIR>          New folder
+05/23/2018  12:36 AM           484,418 New Microsoft Word Document.docx
+05/31/2016  10:55 PM                92 New Text Document.txt
+03/02/2016  06:34 AM            11,518 NewsPaperAgencySolution.zip
+12/23/2017  12:36 PM            14,135 PLI Document 1.docx
+05/23/2018  12:29 AM            13,360 RECEPTION INVITEE LIST.xlsx
+06/10/2018  02:18 PM             1,108 Remo Recover FREE Edition.lnk
+03/01/2019  08:17 PM           241,232 resume.pdf
+03/13/2019  12:33 PM                 0 touch.txt
+02/11/2015  09:56 AM               616 TurboC++ for Windows 7.lnk
+03/24/2018  10:20 PM    <DIR>          WhatsApp
+06/09/2014  10:34 AM               851 ÊTorrent.lnk
+              23 File(s)     53,897,980 bytes
+               5 Dir(s)  75,327,823,872 bytes free
